@@ -22,8 +22,8 @@ Ofrezco mi talento y mi motivación para crear aplicaciones web dinámicas y esc
 
 Estas son algunas de las skills que he desarrollado y que puedo aplicar en el desarrollo web y el backend:
 
-- Lenguajes de programación: Java, SQL, NoSQL, HTML, CSS, JavaScript.
-- Frameworks y librerías: Spring Boot, Hibernate, JPA, Thymeleaf, Bootstrap, jQuery.
+- Lenguajes de programación: Java, SQL, NoSQL.
+- Frameworks y librerías: Spring Boot, Hibernate, JPA.
 - Bases de datos: MySQL, MongoDB, Cassandra.
 - Herramientas de desarrollo: IntelliJ IDEA, Git, GitHub, Postman, Maven, JUnit.
 - Metodologías y conceptos: RESTful, Scrumban, POO, MVC, SOLID, CRUD.
